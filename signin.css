@@ -1,0 +1,17 @@
+.checkbox {
+    margin-right: 195px;
+}
+
+.form-signin {
+    max-width: 330px;
+    padding-top: 150px;
+}
+
+.btn {
+    background-color: rgb(0, 0, 0);
+
+}
+
+.btn:hover {
+    background-color: rgb(76, 76, 76);
+}
